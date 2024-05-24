@@ -24,4 +24,5 @@ exports.likedProduct = async (req) => {
     throw new Error(error.message);
   }
 };
-//getLikedByUser, getLikedById,getLikedProduct, deleteLiked
+
+//getLikedByUser, getLikedById,getLikedProduct,

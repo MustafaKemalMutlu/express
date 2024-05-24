@@ -1,4 +1,4 @@
 const router = require("./router.prefix.consts");
-const generel = require("./generel.consts");
+const general = require("./general.consts");
 
-module.exports = { router, generel };
+module.exports = { router, general };
